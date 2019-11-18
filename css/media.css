@@ -1,0 +1,17 @@
+@media(max-width:991.5px) {
+    .navbar-nav {
+        flex-direction: row !important;
+    }
+
+    .navbar {
+        height: unset;
+    }
+
+    body {
+        padding-top: 12vh;
+    }
+    
+    .pretext,.pretext2 {
+        position: unset;
+    }
+}
